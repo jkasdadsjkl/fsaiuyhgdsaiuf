@@ -1,2 +1,2 @@
-local randomtable = {"324LJK234JKL23LKJ42KLJ34L2K34LK234JL", "0"}
+local randomtable = {"0"}
 return randomtable
