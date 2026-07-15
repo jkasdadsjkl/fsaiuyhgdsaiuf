@@ -1,1 +1,2 @@
-
+local randomtable = {"0"}
+return randomtable
