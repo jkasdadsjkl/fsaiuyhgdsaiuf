@@ -1,1 +1,22 @@
-
+{
+    "873170f0-50d8-4ab9-8e27-0aa71d5b462f": {
+        "usernames": [
+            "Ultramoontester"
+        ],
+        "user_ids": [
+            "11236912832"
+        ],
+        "original_hwid": "873170F0-50D8-4AB9-8E27-0AA71D5B462F"
+    },
+    "1fba1c58-aee7-4c13-a7db-6c3a07f7ae4d": {
+        "usernames": [
+            "FelixT1Forever",
+            "sfghdksjdfhgkdhjvg"
+        ],
+        "user_ids": [
+            "11383434563",
+            "10919017510"
+        ],
+        "original_hwid": "1FBA1C58-AEE7-4C13-A7DB-6C3A07F7AE4D"
+    }
+}
