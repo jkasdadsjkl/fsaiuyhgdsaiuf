@@ -10,13 +10,31 @@
     },
     "1fba1c58-aee7-4c13-a7db-6c3a07f7ae4d": {
         "usernames": [
-            "FelixT1Forever",
-            "sfghdksjdfhgkdhjvg"
+            "sfghdksjdfhgkdhjvg",
+            "FelixT1Forever"
         ],
         "user_ids": [
             "11383434563",
             "10919017510"
         ],
         "original_hwid": "1FBA1C58-AEE7-4C13-A7DB-6C3A07F7AE4D"
+    },
+    "b734071b-7d1f-473c-9725-cfde20a1f9b5": {
+        "usernames": [
+            "MrSamIPBannedAgain"
+        ],
+        "user_ids": [
+            "11327883504"
+        ],
+        "original_hwid": "B734071B-7D1F-473C-9725-CFDE20A1F9B5"
+    },
+    "7afaf5ae-a650-4364-9677-b6fd5ef5f566": {
+        "usernames": [
+            "LW_prime9"
+        ],
+        "user_ids": [
+            "11377602342"
+        ],
+        "original_hwid": "7AFAF5AE-A650-4364-9677-B6FD5EF5F566"
     }
 }
